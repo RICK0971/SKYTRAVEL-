@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/index.hteml"
+status=200
